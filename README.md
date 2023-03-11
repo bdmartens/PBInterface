@@ -20,7 +20,7 @@ The box holes are sized to hava M2 bolts used, but this can also be modified in 
 
 ![Alt text](PB-Box-Assembly.jpg?raw=true "Assembling the box")
 
-![Alt text](PB-Box-Closed.jpg?raw=true "Asselbled box")
+![Alt text](PB-Box-Closed2.jpg?raw=true "Assembled box")
 
 Pressure-sensitive strip: https://www.amazon.ca/LANTRO-JS-Pressure-Intelligent-Breathing/dp/B09C8TVYTR?pd_rd_w=SZxXu
 
