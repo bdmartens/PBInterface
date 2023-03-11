@@ -19,7 +19,16 @@ The box holes are sized to hava M2 bolts used, but this can also be modified in 
 ![Alt text](PB-Box-Assembly.jpg?raw=true "Assembling the box")
 
 Pressure-sensitive strip: https://www.amazon.ca/LANTRO-JS-Pressure-Intelligent-Breathing/dp/B09C8TVYTR?pd_rd_w=SZxXu
+
 5V Power adapter - https://www.amazon.ca/BTF-LIGHTING-Plastic-Adapter-Transformer-WS2812B/dp/B01D8FM71S?pd_rd_w=SZxXu
+
 Power socket - https://www.amazon.ca/gp/product/B01M0RFV34
+
 Momentary buttons - https://www.amazon.ca/gp/product/B07FKB6648
+
 Power switch - https://www.amazon.ca/gp/product/B00F4MG7HY
+
+----
+More specifics about the pixelblaze GPIO pins available here: https://electromage.com/docs/GPIO
+
+Learn more about Pixelblaze here: https://electromage.com/
