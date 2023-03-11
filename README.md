@@ -15,3 +15,5 @@ There is also a header for a power switch, which I use a mini toggle switch.
 
 I have also included the fusion 360 PCB box project file, as well as a step file, with most of the parameters set as variables that can be modified as needed.
 The box holes are sized to hava M2 bolts used, but this can also be modified in the fusion 360 parameters.
+
+![Alt text](PB-Box-Assembly.jpg?raw=true "Assembling the box")
